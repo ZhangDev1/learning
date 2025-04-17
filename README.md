@@ -6,4 +6,4 @@ This repo will detail some of my recent learnings as well provide links to where
 | [Datacamp MLOps Concepts](https://app.datacamp.com/learn/courses/mlops-concepts)   | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/4f4cb30d995177391b81675a9da3c81f23288f2f) |
 | [Datacamp End-to-End Machine Learning](https://app.datacamp.com/learn/courses/end-to-end-machine-learning)   |  [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/3986bc0b8708794ab455ea1099cafc1a8b275db9)  |
 | [Datacamp LLM Concepts](https://app.datacamp.com/learn/courses/llmops-concepts) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/f99e8377dcbb68f04506faf5a5ed39da623e38e5) |
-| | |
+| [Datacamp Developing AI Systems](https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/7b4b81976771fdf54621078d6db80f0487c38f01) |
