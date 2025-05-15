@@ -15,3 +15,5 @@ This repo will detail some of my recent learnings as well provide links to where
 | [Datacamp Understanding Cloud Computing](https://app.datacamp.com/learn/courses/understanding-cloud-computing) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/4da62329e00a03f1e340544a42b5e19f33b73a86)|
 | [Datacamp AWS Concepts](https://app.datacamp.com/learn/courses/aws-concepts) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a7bfa0b38e217c9736fca684127eab35add81eb)|
 | [Datacamp AWS Cloud Technology and Services Concepts](https://app.datacamp.com/learn/courses/aws-cloud-technology-and-services) | [Certificate]()|
+
+Currently on Datacamp AWS Cloud Technology and Services Concepts chapter 2.
