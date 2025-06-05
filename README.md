@@ -14,6 +14,4 @@ This repo will detail some of my recent learnings as well provide links to where
 | [Associate AI Engineer for Developers Datacamp Track](https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/374c94bd693fb5c6cb7bf305883e8f0b4d789062) |
 | [Datacamp Understanding Cloud Computing](https://app.datacamp.com/learn/courses/understanding-cloud-computing) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/4da62329e00a03f1e340544a42b5e19f33b73a86)|
 | [Datacamp AWS Concepts](https://app.datacamp.com/learn/courses/aws-concepts) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a7bfa0b38e217c9736fca684127eab35add81eb)|
-| [Datacamp AWS Cloud Technology and Services Concepts](https://app.datacamp.com/learn/courses/aws-cloud-technology-and-services) | [Certificate]()|
-
-Currently on Datacamp AWS Cloud Technology and Services Concepts chapter 2.
+| [Datacamp AWS Cloud Technology and Services Concepts](https://app.datacamp.com/learn/courses/aws-cloud-technology-and-services) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ce5eefb8d1bfbaf49385bfe6417105571321616c)|
